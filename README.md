@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-   <img src="/image/logo2.png" alt="logo" width="140"  height="auto" />
+   <img src="/images/logo2.png" alt="logo" width="140"  height="auto" />
   <br/>
   <h3><b>Larry Villegas Portfolio</b></h3>
 
@@ -79,7 +79,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git git@github.com:LarryIVC/portfolio.git
+  git git@github.com:LarryIVC/Bootstrap-portfolio.git
 ```
 ### Install
 
