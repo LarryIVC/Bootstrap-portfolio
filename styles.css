@@ -27,7 +27,7 @@ header {
 }
 
 .badge {
-  color: #6070FF;
+  color: #6070ff;
 }
 
 #iconos1 {
@@ -35,18 +35,18 @@ header {
 }
 
 .fila1 {
-  padding-top: 5rem;  
+  padding-top: 5rem;
   max-width: 75%;
   margin: 0 auto;
 }
 
 .btn-light {
   font-weight: 500;
-  border: 1px solid #7F8CFF;
-  color: #6070FF;
+  border: 1px solid #7f8cff;
+  color: #6070ff;
 }
 
 .lista {
   list-style-image: -moz-radial-gradient();
-  list-style-position: inside !important ;
+  list-style-position: inside !important;
 }
